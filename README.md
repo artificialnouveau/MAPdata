@@ -1,6 +1,10 @@
 # Murder Accountability Project Exploratory Data Analysis
 
-Just curious about the Murder Accountability Project. Spent 2.5 hours exploring the data, so everything is rough around its edges
+Just curious about the Murder Accountability Project. Spent 2.5 hours exploring the data, so everything is rough around its edges.
+
+Original dataset was sourced from www.murderdata.org: 
+
+http://www.murderdata.org/p/data-docs.html
 
 This git repo contains links to some basic data visualization and a trial frequent item analysis
 
