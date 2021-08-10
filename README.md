@@ -18,6 +18,6 @@ https://public.tableau.com/app/profile/7498/viz/MAP_demo3/Dashboard3?publish=yes
 
 You can find the Map Frequent Itemset Python-based Jupyter notebook in the repo. I used the Python mlxtend package: Frequent Itemsets via Apriori Algorithm for this analysis. 
 
-https://github.com/artificialnouveau/MAPdata/blob/main/MAP%20Frequent%20Itemsets%20via%20Apriori%20Algorithm.ipynb
+https://github.com/artificialnouveau/MAPdata/blob/main/MAP%20Associate%20Rule%20Mining.ipynb
 
 http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
